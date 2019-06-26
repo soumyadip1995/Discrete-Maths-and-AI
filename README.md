@@ -1,5 +1,6 @@
 ## Discrete-Maths-and-AI
 
+![alt_text](https://www.nyctourist.com/images/subwaymap/subway-map-big.gif)
 
 A study of transit system design using graph theory.
 
