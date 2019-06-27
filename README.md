@@ -6,7 +6,7 @@
 
 The Aim of this repo is not how to show you the all the traditional methods that are included in discrete mathematics. But we will be dealing with a problem or to be more specific a murder mystery which we will be solving using  discrete mathematics along with the various methodologies available with AI .
 
-We are going to take a ride with Bob who is a detective of the Police department in New York City and has been assigned with the duty of  determining a killer within a limited timeframe. The only resources available at his disposal are discrete mathematics and Artificial Intelligence.
+#### We are going to take a ride with Bob who is a detective of the Police department in New York City and has been assigned with the duty of  determining a killer within a limited timeframe. The only resources available at his disposal are discrete mathematics and Artificial Intelligence.
 
 ### Credits
 
